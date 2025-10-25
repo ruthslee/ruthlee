@@ -1,9 +1,9 @@
 {
-  "short_name": "ruthtech",
+  "short_name": "ruthslee",
   "name": "Ruth Lee",
   "icons": [
     {
-      "src": "ruthtech.ico",
+      "src": "ruthslee.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
