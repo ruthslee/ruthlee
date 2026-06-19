@@ -49,7 +49,7 @@ to the gh-pages branch. GitHub Pages then serves the updates.
 
 ### Live System
 
-To view this on a live system, go to https://ruthtech.github.io/ruthlee/
+To view this on a live system, go to https://ruthslee.github.io/ruthlee/
 
 ## Built With
 
